@@ -3,5 +3,4 @@ def square_array(array)
    square = element**2
    puts square
   end
-return square
 end
